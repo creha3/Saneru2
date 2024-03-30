@@ -373,11 +373,11 @@ nav{
     background: linear-gradient(-225deg, #2CD8D5 0%, #C5C1FF 56%, #FFBAC3 100%);
     }
     .skinBody2{
-    background:url(/img/bubble_01.png) repeat 0 0;
+    background:url(img/bubble_01.png) repeat 0 0;
     }
     .skinBody3{
-    background:url(/img/bubble_02.png) repeat 0 0;
+    background:url(img/bubble_02.png) repeat 0 0;
     }
     .skinFrame{
-    background:url(/img/bubble_03.png) repeat 0 0;
+    background:url(img/bubble_03.png) repeat 0 0;
     }
